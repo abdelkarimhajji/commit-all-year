@@ -1,0 +1,18 @@
+{
+  "name": "script_commit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dayjs": "^1.11.13",
+    "fs": "^0.0.1-security",
+    "simple-git": "^3.27.0"
+  }
+}
