@@ -28,3 +28,5 @@ Check the installed version:
 ```yaml
   node commits.js
 ```
+
+## You should be wait even the program to finish, that take some minutes.
